@@ -13,6 +13,6 @@ information retrieval
 
 
 ### Practice
-- [Exercise 1](practice/ex1)
 - [Exercise 2](practice/ex2)
+- [Exercise 3](practice/ex3)
 
