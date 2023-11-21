@@ -21,6 +21,9 @@ information retrieval
 - Minggu 7
     - [Search Engine Concept](materials/minggu7/Search%20Engine%20Concept.pdf)
     - [Evaluasi](materials/minggu7/Evaluasi.pdf)
+- Minggu 8
+    - [Text Classification NaiveBayes](materials/minggu8/Pertemuan%208.2%20-%20Klasifikasi%20Dokumen%20dengan%20Naive%20Bayes.pdf)
+    - [Handons Text Classification](materials/minggu8/handson/)
 
 
 ### Practice
@@ -30,4 +33,5 @@ information retrieval
 - [Exercise 5](practice/ex5)
 - [Exercise 6](practice/ex6)
 - [Exercise 7](practice/ex7)
+- [Exercise 8](practice/ex8)
 
