@@ -24,6 +24,9 @@ information retrieval
 - Minggu 8
     - [Text Classification NaiveBayes](materials/minggu8/Pertemuan%208.2%20-%20Klasifikasi%20Dokumen%20dengan%20Naive%20Bayes.pdf)
     - [Handons Text Classification](materials/minggu8/handson/)
+- Minggu 9
+    - [Text Classification KNN](materials/minggu9/Pertemuan%209.2%20-%20Klasifikasi%20Dokumen%20dengan%20K-Nearest%20Neighbor.pdf)
+    - [Handons Text Classification KNN](materials/minggu9/handson/)
 
 
 ### Practice
@@ -34,4 +37,5 @@ information retrieval
 - [Exercise 6](practice/ex6)
 - [Exercise 7](practice/ex7)
 - [Exercise 8](practice/ex8)
+- [Exercise 9](practice/ex9)
 
