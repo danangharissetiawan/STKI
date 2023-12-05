@@ -27,6 +27,9 @@ information retrieval
 - Minggu 9
     - [Text Classification KNN](materials/minggu9/Pertemuan%209.2%20-%20Klasifikasi%20Dokumen%20dengan%20K-Nearest%20Neighbor.pdf)
     - [Handons Text Classification KNN](materials/minggu9/handson/)
+- Minggu 10
+    - [Text Clustering](materials/minggu10/Klastering%20Dokumen%20dengan%20K-Means.pdf)
+    - [Handons Text Clustering](materials/minggu10/handsons/)
 
 
 ### Practice
@@ -38,4 +41,4 @@ information retrieval
 - [Exercise 7](practice/ex7)
 - [Exercise 8](practice/ex8)
 - [Exercise 9](practice/ex9)
-
+- [Exercise 10](practice/ex10)
