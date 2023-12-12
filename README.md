@@ -30,6 +30,9 @@ information retrieval
 - Minggu 10
     - [Text Clustering](materials/minggu10/Klastering%20Dokumen%20dengan%20K-Means.pdf)
     - [Handons Text Clustering](materials/minggu10/handsons/)
+- Minggu 11
+    - [Text Summarization](materials/minggu11/Pertemuan%2011%20-%20Peringkasan%20Dokumen%20Teks.pdf)
+    - [Handons Text Summarization](materials/minggu11/handsons/)
 
 
 ### Practice
@@ -42,3 +45,4 @@ information retrieval
 - [Exercise 8](practice/ex8)
 - [Exercise 9](practice/ex9)
 - [Exercise 10](practice/ex10)
+- [Exercise 11](practice/ex11)
